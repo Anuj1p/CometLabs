@@ -1,0 +1,45 @@
+.mainCardComponent {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 180px;
+    border-radius: 5px;
+    padding: 0px 10px 20px;
+    text-align: center;
+    /* box-shadow: 2px 2px 2px hsl(0deg 0% 80% / 45%); */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border: 2px solid rgb(204, 202, 202);
+    cursor: not-allowed!important;
+    display: flex;
+    flex: 0 0 30%;
+    margin: 0px 10px 10px 0px;
+    @media screen (max-width: 600px) {
+        flex: 0 0 50%;
+    }
+}
+
+.img {
+    width: 90px !important;
+    height: 90px !important;
+    min-width: 0px !important;
+    min-height: 0px !important;
+
+}
+
+.HeadingContainer {
+    font-size: 16px;
+    color: rgba(0,0,0,.65);
+    font-weight: 700;
+    padding-bottom: 15px;
+}   
+
+.SubHeadingContainer {
+    font-weight: 400;
+}
+
+.button {
+    padding-top: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    color: rgb(65, 100, 139);
+}

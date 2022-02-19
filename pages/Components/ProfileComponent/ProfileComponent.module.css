@@ -1,0 +1,31 @@
+.mainComponent {
+    max-width: 860px;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 80px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.companyLogo {
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 20px;
+}
+
+@media (max-width: 900px) {
+    .mainComponent{
+        max-width: 640px;
+    }
+}
+
+@media (max-width: 650px) {
+    .mainComponent{
+        max-width: 360px;
+    }
+}
+
+@media (max-width: 375px) {
+    .mainComponent{
+        max-width: 310px;
+    }
+}
