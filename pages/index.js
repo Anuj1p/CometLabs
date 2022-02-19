@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
 import ProfileComponent from './profile';
-import Navigation from './Components/Navigation';
+import Navigation from '../Components/Navigation';
 
 
 

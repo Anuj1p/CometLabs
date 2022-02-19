@@ -9,7 +9,7 @@ const SkillComponent = () => {
             <div className={styles.upperContainer}>
                 <div className={styles.heading}>Skills</div>
                 <div className={styles.editContainer}>
-                    <Image className={styles.logo} src={require('../../../../images/edit.png')} />
+                    <Image className={styles.logo} src={require('../../../images/edit.png')} />
                 </div>
             </div>
             <div className={styles.lowerContainer}>

@@ -1,9 +1,9 @@
 import React from 'react'
-import TechStackAssesments from './Components/TechStackAssesments';
-import Experience from './Components/Experience';
-import StepperComponent from './Components/StepperComponent';
+import TechStackAssesments from '../Components/TechStackAssesments';
+import Experience from '../Components/Experience';
+import StepperComponent from '../Components/StepperComponent';
 import Box from '@mui/material/Box';
-import Navigation from './Components/Navigation';
+import Navigation from '../Components/Navigation';
 
 import styles from '../styles/Home.module.css'
 

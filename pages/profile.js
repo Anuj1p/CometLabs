@@ -1,9 +1,9 @@
 import React from 'react'
-import styles from './Components/ProfileComponent/ProfileComponent.module.css';
+import styles from '../Components/ProfileComponent/ProfileComponent.module.css';
 import Box from '@mui/material/Box';
-import Component from './Components/ProfileComponent/EditProfile';
-import SkillComponent from './Components/ProfileComponent/SkillComponent';
-import Navigation from './Components/Navigation';
+import Component from '../Components/ProfileComponent/EditProfile';
+import SkillComponent from '../Components/ProfileComponent/SkillComponent';
+import Navigation from '../Components/Navigation';
 
 const profile = () => {
   return (

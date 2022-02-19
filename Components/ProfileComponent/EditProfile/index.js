@@ -29,7 +29,7 @@ const EditProfile = (props) => {
                         <div className={styles.rightsubHeading}>{rightsubHeading}</div>
                     </div>
                     <div className={styles.editContainer}>
-                        <Image className={styles.logo} src={require('../../../../images/edit.png')} />
+                        <Image className={styles.logo} src={require('../../../images/edit.png')} />
                     </div>
                 </div>
             </div>
