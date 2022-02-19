@@ -1,6 +1,6 @@
 import React from 'react'
 
-import cardData from '../Card/CardData';
+import cardData from '../../lib/CardData';
 import LockIcon from '@mui/icons-material/Lock';
 import Card from '../Card';
 
