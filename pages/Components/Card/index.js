@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import styles from './card.module.css';
 
-const Card = ({val}) => {
+const index = ({val}) => {
     return (
         <div className={styles.mainCardComponent}>
             <Image
@@ -17,4 +17,4 @@ const Card = ({val}) => {
     )
 }
 
-export default Card
+export default index
