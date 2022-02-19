@@ -1,3 +1,15 @@
+***Profile Page***
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-43-23.png)
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-43-29.png)
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-43-54.png)
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-43-58.png)
+***Test Page***
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-44-11.png)
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-44-16.png)
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-44-26.png)
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-44-49.png)
+![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2020-44-52.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
