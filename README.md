@@ -4,11 +4,11 @@
 ![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-57-44.png)
 ![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-57-54.png)
 ***Test Page***
-![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-24.png)
-![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-29.png)
-![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-35.png)
-![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-49.png)
-![Profile Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-59-00.png)
+![Test Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-24.png)
+![Test Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-29.png)
+![Test Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-35.png)
+![Test Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-58-49.png)
+![Test Page](https://github.com/Anuj1p/CometLabs/blob/main/screenshots/Screenshot%20from%202022-02-19%2022-59-00.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
