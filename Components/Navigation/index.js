@@ -132,16 +132,16 @@ const Navigation = () => {
                 <Divider />
                 <List>
                     <Link href="/about">
-                        <ListItem button key="Home">
+                        <ListItem button key="Test">
                             <ListItemIcon>
                                 <CottageIcon />
                             </ListItemIcon>
-                            <ListItemText primary="Home" />
+                            <ListItemText primary="Turing Test" />
                         </ListItem>
                     </Link>
                 </List>
                 <List>
-                    <Link href="/profile">
+                    <Link href="/">
                         <ListItem button key="Profile">
                             <ListItemIcon>
                                 <AccountBoxIcon />
