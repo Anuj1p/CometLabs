@@ -19,6 +19,7 @@ import Toolbar from '@mui/material/Toolbar';
 import List from '@mui/material/List';
 import CssBaseline from '@mui/material/CssBaseline';
 import { styled, useTheme } from '@mui/material/styles';
+import ContentPasteSearchIcon from '@mui/icons-material/ContentPasteSearch';
 import Link from 'next/link'
 
 const drawerWidth = 340;
@@ -131,10 +132,10 @@ const Navigation = () => {
                 </DrawerHeader>
                 <Divider />
                 <List>
-                    <Link href="/about">
+                    <Link href="/test">
                         <ListItem button key="Test">
                             <ListItemIcon>
-                                <CottageIcon />
+                                <ContentPasteSearchIcon />
                             </ListItemIcon>
                             <ListItemText primary="Turing Test" />
                         </ListItem>
